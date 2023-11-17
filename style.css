@@ -1,3 +1,9 @@
+/* body {
+	/* background-image: url('./assets/bg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover; */
+} */
+
 .img-rapper {
     background-color: aquamarine;
     padding: 10px;
@@ -24,11 +30,23 @@ img {
 .dotted {
 	border-style: dotted;
 	margin-bottom: 10px;
+	margin-bottom: 12px;
+	padding: 40px 12px;
+	text-decoration-line: underline;
+	text-decoration-color: blue;
+	text-decoration-thickness: 10px;
+	text-decoration-line: none;
+	text-transform: capitalize;
+	letter-spacing: 4px;
+	word-spacing: 8px;
+	text-shadow: 2px 2px 2px grey;
+
 }
 
 .dashed {
 	border-style: dashed;
 	margin-bottom: 10px;
+	margin-top: 12px;
 }
 
 .solid {
